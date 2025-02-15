@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hilmi
-- 👀 I’m interested in Game Developing (2D) and Mobile Developing (Android)
+- 👀 I’m interested in Game Developing (2D), Mobile Developing (Android) and Cloud Computing (GCP)
 - 🌱 I’m currently learning Information Technology Education at Brawijaya University (3.73 GPA)
 - 🎮 For Game Developing, I'm currently using Construct, Godot, and Unity (but still begineer)
 - 🌐 For Mobile Developing, I'm currently using Android Studio (but still begineer)
